@@ -1,0 +1,24 @@
+{
+  "indices": [
+    {
+      "name": "projects",
+      "limit": 5
+    },
+    {
+      "name": "users",
+      "limit": 5
+    },
+    {
+      "name": "staff",
+      "limit": 5
+    },
+    {
+      "name": "partners",
+      "limit": 5
+    },
+    {
+      "name": "documents",
+      "limit": 5
+    }
+  ]
+}

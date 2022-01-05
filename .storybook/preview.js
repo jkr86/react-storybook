@@ -1,3 +1,4 @@
+import "../src/styles/dist/output.css";
 export const parameters = {
   actions: { argTypesRegex: "^on[A-Z].*" },
   controls: {
